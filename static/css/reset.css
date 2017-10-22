@@ -1,0 +1,26 @@
+/**
+ * Eric Meyer's Reset CSS v2.0 (http://meyerweb.com/eric/tools/css/reset/)
+ * http://cssreset.com
+ */
+ html, body, div, span, h1, h2, h3, h4, h5, h6, p,
+ a, em, img, i, dl, dt, dd, ol, ul, li, input {
+     margin: 0;
+     padding: 0;
+     border: 0;
+     font-size: 12px;
+     font-weight: normal;
+     vertical-align: baseline;
+ }
+ 
+ a {
+     text-decoration: none;
+ }
+ 
+ li {
+     list-style: none;
+ }
+ 
+ html, body {
+     width: 100%;
+     background-color: #f2f2f2;
+ }
